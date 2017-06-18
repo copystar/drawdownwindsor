@@ -18,7 +18,7 @@ email: mita@aedileworks.com
 description: > # this means to ignore newlines until "baseurl:"
   Drawdown is a 2017 book edited by Paul Hawken that 'maps, measures, models, and describes the 100 most substantive solutions to global warming.'
   Drawdown Windsor is a blog by Mita Williams that applies that model to the Windsor, Ontario, Canada.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/drawdownwindsor" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: copystar
 github_username:  copystar
