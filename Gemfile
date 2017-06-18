@@ -28,4 +28,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #added to see if I can publish using git-hub pages
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins
